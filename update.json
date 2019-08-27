@@ -1,9 +1,9 @@
 {
-"update": "Yes",
-"new_version": "0.0.2",
-"apk_file_url": "https://raw.githubusercontent.com/cajan8/publicTest/master/android.apk",
-"update_log": "1，ctp。\r\n2，支持自动更新",
-"target_size": "5M",
-"new_md5": "b97bea014531123f94c3ba7b7afbaad2",
-"constraint": false
+"force": true,
+"version": "1.0.1",
+"apkUrl": "https://raw.githubusercontent.com/cajannnnn/release/master/android.apk",
+"title": "有新版本了",
+"content": "1，ctp。\r\n2，支持自动更新",
+"targetSize": "5M",
+"md5": "b97bea014531123f94c3ba7b7afbaad2"
 }
